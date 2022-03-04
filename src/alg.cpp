@@ -2,7 +2,7 @@
 #include <cstdint>
 #include "alg.h"
 
-https://github.com/Nikitin-Anatolii/ADS-2/blob/b61/src/alg.cpp
+
 double pown(double value, uint16_t n) {
   if (n == 1)
     return value;
